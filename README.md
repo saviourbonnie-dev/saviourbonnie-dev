@@ -43,8 +43,10 @@
 | [📊 Church Membership Database](#) | A system to manage and track church members efficiently | Django / PostgreSQL | 🔨 In Progress |
 | [📱 Mobile + Web App](#) | Cross-platform church app for engagement & communication | React / Node.js / MongoDB | 🔨 In Progress |
 | [🧠 Personality Discovery Software](#) | Helps users understand strengths & traits | Python / Flask | 📝 Planned |
-
-> 🌟 More projects coming soon!  
+| [📖 Bible Reading Tracker](#) | A personal + community tool to log daily Bible readings, track streaks, and stay consistent | Django / SQLite | 📝 Planned |
+| [📘 Book Club Tracker](#) | A platform for students/members to register books, share reflections, and track chapter submissions | Django / Bootstrap | 📝 Planned |
+| [🎯 Goal Tracker – "My Life, Inc."](#) | A life & productivity manager to set spiritual, career, and personal goals with milestone tracking | Django REST / React | 📝 Planned |
+  
 
 ---
 
